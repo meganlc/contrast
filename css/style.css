@@ -20,6 +20,7 @@ ul {
 	font-size: 20px;
 	margin: 2rem;
 	padding: 2rem;
+	list-style-type: square;
 }
 
 h3 {
